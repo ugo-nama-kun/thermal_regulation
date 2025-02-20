@@ -1,6 +1,6 @@
 # Thermal Environment
 
-![thermal-ns](/uploads/c1a2a124fb6b6a7ee4cdc4cf03573515/thermal-ns.png)
+Installation and usage are similar to: https://github.com/ugo-nama-kun/trp_env
 
 ```python
 import gym
